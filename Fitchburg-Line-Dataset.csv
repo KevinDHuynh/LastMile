@@ -1,0 +1,20 @@
+﻿Station,Town,Address #,Street,Parking Spaces,Daily Fee(weekday),Daily Fee(weekend),Order Inbound
+Wachusett,Fitchburg,55,Authority Dr,369,$3,$3,1
+Fitchburg,Fitchburg,150,Main St,400,$3,$3,2
+North Leominster,Leominster,44,Nashua St,436,$3,$3,3
+Shirley,Shirley,Ayer Rd,Phoenix St,25,$0,$0,4
+Ayer,Ayer,70,Main St,90,$0,$0,5
+Littleton/Rte 495,Littleton,Grimes Ln,Foster St,226,$6,$2,6
+South Acton,Acton,4,Central St,287,$5,$0,7
+West Concord,West Concord,Commonwealth Ave,Main St,146,$5,$5,8
+Concord,Concord,90,Thoreau St,86,$0,$0,9
+Lincoln,Lincoln,160,Lincoln Rd,161,$3,$0,10
+Silver Hill,Weston,Silver Hill Rd,Merriam St,0,$0,$0,11
+Hastings,Weston,105,Viles St,6,$0,$0,12
+Kendal Green,Weston,198,Church St,57,$0,$0,13
+Brandeis/Roberts,Waltham,1,Sawyer Rd,24,$4,$2,14
+Waltham,Waltham,75,Carter St,86,$2,$2,15
+Waverly,Belmont,525,Trapelo Rd,0,$0,$0,16
+Belmont,Belmont,Common St,Concord Ave,131,$5,$5,17
+Porter,Cambridge,1899,Massachusetts Ave,0,$0,$0,18
+North Station,Boston,135,Causeway St,1275,$68,$10,19
